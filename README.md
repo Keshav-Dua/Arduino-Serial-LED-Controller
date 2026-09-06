@@ -55,14 +55,14 @@ OFF ALL
 ```text
 Arduino-Serial-LED-Control/
 ├── docs/
-│   ├── commands.md       # Command documentation
-│   ├── diagram.json      # Wokwi circuit simulation file
-│   ├── pinout.md         # Full hardware pin assignments
+│   ├── commands.md                  # Command documentation
+│   ├── diagram.json                 # Wokwi circuit simulation file
+│   ├── pinout.md                    # Full hardware pin assignments
 │   ├── simulation_schematic.png     # Circuit schematic image
-|   ├── irl_schematic.jpg #irl image
-│   └── wokwi.toml        # Simulation config
+|   ├── irl_schematic.jpg            # irl image
+│   └── wokwi.toml                   # Simulation config
 ├── src/
-│   └── LED_Controller.cpp          # Arduino source code
-├── .gitignore            # Git ignore rules for build files
-├── LICENSE               # Open-source license (MIT)
-└── README.md             # Project documentation
+│   └── LED_Controller.cpp           # Arduino source code
+├── .gitignore           
+├── LICENSE              
+└── README.md            

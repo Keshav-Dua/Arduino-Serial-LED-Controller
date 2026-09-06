@@ -19,7 +19,7 @@ This document details the microcontroller pin assignments, component specificati
 
 
 
-## ⚡ Bill of Materials (BOM)
+##  Bill of Materials (BOM)
 
 * **Microcontroller:** 1x Arduino Uno / Nano / Mega
 * **LEDs:** 4x Standard 5mm LEDs (Any color)
@@ -27,7 +27,7 @@ This document details the microcontroller pin assignments, component specificati
 * **Prototyping:** 1x Half-size Breadboard & Jumper Wires (min 5)
 
 
-## 🔌 Connection Schema
+##  Connection Schema
 
 Each LED anode (longer leg) connects to its respective digital output pin on the Arduino, while the cathode (shorter leg) connects to Ground through a 220Ω current-limiting resistor.
 

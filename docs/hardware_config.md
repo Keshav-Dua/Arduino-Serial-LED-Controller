@@ -3,15 +3,20 @@
 This document details the microcontroller pin assignments, component specifications, and wiring layout for the 4-LED Serial Controller.
 
 
-## 📌 Pin Assignment Table
+## Pin Assignment Table
 
 | Arduino Pin | Component | 
-| :--- | :--- |  ---|---  |
+
 | **Pin 4**   | LED 1     | 
+
 | **Pin 5**   | LED 2     | 
+
 | **Pin 6**   | LED 3     | 
+
 | **Pin 7**   | LED 4     | 
+
 |   **GND**   | (GND)     |
+
 
 
 ## ⚡ Bill of Materials (BOM)
